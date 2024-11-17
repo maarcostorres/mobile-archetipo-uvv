@@ -1,4 +1,4 @@
-# Prova CC4Mc - Desenvolvimento Mobile
+# Projeto CC4Mc - Desenvolvimento Mobile
 
 ## Informações
 
